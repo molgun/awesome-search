@@ -12,7 +12,7 @@ You can find about documents, presentations, books about searching mechanizm and
 
 ### Presentations 
 
- - [What is in a Lucene index?](http://www.slideshare.net/lucenerevolution/what-is-inaluceneagrandfinal)
+ - [What is in a Lucene index?](http://www.slideshare.net/lucenerevolution/what-is-inaluceneagrandfinal) - [Video](https://www.youtube.com/watch?v=T5RmMNDR5XI)
 
 ### Releated Algorithms
 
