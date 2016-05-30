@@ -14,7 +14,17 @@ You can find about documents, presentations, books about searching mechanizm and
 
  - [What is in a Lucene index?](http://www.slideshare.net/lucenerevolution/what-is-inaluceneagrandfinal) - [Video](https://www.youtube.com/watch?v=T5RmMNDR5XI)
 
+### Books
+
+ - [Using Spatial Data In Elasticsearch](https://mapbutcher.gitbooks.io/using-spatial-data-in-elasticsearch/content/)
+ - [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/)
+ - [Sorting and Searching Algorithms: A Cookbook](https://www.cs.auckland.ac.nz/~jmor159/PLDS210/niemann/s_man.pdf)
+
 ### Releated Algorithms
 
  - [The Levenshtein-Algorithm](http://www.levenshtein.net/)
  - 
+
+### Blog Posts
+
+ - [How HipChat Stores And Indexes Billions Of Messages Using ElasticSearch And Redis](http://highscalability.com/blog/2014/1/6/how-hipchat-stores-and-indexes-billions-of-messages-using-el.html)
