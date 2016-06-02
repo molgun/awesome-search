@@ -15,6 +15,7 @@ You can find about documents, presentations, books about searching mechanizm and
  - [What is in a Lucene index?](http://www.slideshare.net/lucenerevolution/what-is-inaluceneagrandfinal) - [Video](https://www.youtube.com/watch?v=T5RmMNDR5XI)
  - [Datastructures and Algorithms for Indexing](https://www.cl.cam.ac.uk/teaching/1314/InfoRtrv/lecture2.pdf)
  - [Finite State Automata in Lucenei Theory and Application](https://vimeo.com/26517310)
+ - [What is in a Lucene index? Adrien Grand](https://www.youtube.com/watch?v=T5RmMNDR5XI)
 
 ### Books
 
