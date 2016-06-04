@@ -22,6 +22,7 @@ You can find about documents, presentations, books about searching mechanizm and
  - [Using Spatial Data In Elasticsearch](https://mapbutcher.gitbooks.io/using-spatial-data-in-elasticsearch/content/)
  - [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/)
  - [Sorting and Searching Algorithms: A Cookbook](https://www.cs.auckland.ac.nz/~jmor159/PLDS210/niemann/s_man.pdf)
+ - [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/html/htmledition/irbook.html)
 
 ### Releated Algorithms
 
